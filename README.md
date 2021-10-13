@@ -1,7 +1,5 @@
 # nerd notes
 
-alekseidudchenko.github.io
-
 
 ## moving a git repository to a new remote 
 
