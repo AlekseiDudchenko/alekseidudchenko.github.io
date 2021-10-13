@@ -1,4 +1,6 @@
-# alekseidudchenko.github.io
+# nerd notes
+
+alekseidudchenko.github.io
 
 
 ## moving a git repository to a new remote 
@@ -20,7 +22,7 @@ Let's take a look at the example
 
 
 	git clone --bare https://github.com/exampleuser/old-repository
-	cd old-repository.git
+	cd old-repository
 	git push --mirror https://github.com/exampleuser/new-repository
 
 
