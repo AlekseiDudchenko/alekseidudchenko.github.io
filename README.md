@@ -1,10 +1,10 @@
-# nerd notes
+# notes
 
 
 ## Moving a git repository to a new remote 
 
 
-I encountered the following interesting task at my job.
+I faced the following task.
 
 We move all our git-repositories from our remote server to our brand-new instance of GitLab.  
 
